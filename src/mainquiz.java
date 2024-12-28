@@ -18,6 +18,7 @@ public class mainquiz {
 	static int ans9=1;
 	static int ans10=2;
 	static int b;
+	String abcdef;
 	
 	
 	
